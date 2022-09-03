@@ -3,7 +3,7 @@ import java.util.ResourceBundle;
 
 public class Greeter {
 
-  private Locale locale;
+  private Locale l;
   private String n;
 
   public Greeter(String language, String country, String name) {
